@@ -14,7 +14,7 @@ This Jupyter Notebook file is dedicated to the preprocessing of the data, featur
 
 ### 2. `run.py`
 
-This Python script serves as an interface for predicting heart rates using the trained model and scaler parameters saved in the previous step. When executed, it prompts the user to input a file (dataset) for heart rate prediction. The script then loads the model and scaler parameters, processes the input file, and displays the predicted heart rates.
+This Python script serves as an interface for predicting heart rates using the trained model and scaler parameters saved in the previous step. When executed, it prompts the user to input a file (dataset) for heart rate prediction. The script then loads the model and scaler parameters, processes the input file, and displays the predicted heart rates and store it in a '.csv file' named 'results.csv'.
 
 To execute the script, use the following command:
 python run.py
