@@ -37,3 +37,16 @@ This Jupyter Notebook file is used to test the functionality of `run.py` by prov
 Make sure to install the required libraries using:
 pip install tensorflow numpy pandas 
 
+## Credits
+### Team Leader
+Aniruddh Pandav<br>
+ee23bt031@iitdh.ac.in<br>
+96182 18601<br>
+### Team Members
+Vidit Parikh<br>
+mc23bt010@iitdh.ac.in<br>
+75738 53202<br>
+
+Dev Kaushal<br>
+ep23bt004@iitdh.ac.in<br>
+73557 74136<br>
